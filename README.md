@@ -17,7 +17,11 @@ The program will then ask the user to make two inputs; the two words they would 
 
 If the two words are matching, they will remain revealed. Else, the program will hide the words again. In both instances, an appropriate message will be displayed, indicating whether they got it write or wrong. 
 
-Input validations are also present throughout to ensure robustness and code sustainability, with the exception of string inputs.
+Input validations are also present throughout to ensure robustness and code sustainability (with the exception of string inputs that will be amended later).
 
 ## Screenshots
-Work in progress...
+![image](https://user-images.githubusercontent.com/67860821/177178880-0882d620-8ccc-4ab0-bb01-8c9666db26e0.png)
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/67860821/177183381-077a505f-ccee-4bd1-9375-cbab226a9e30.png'>
+  <img src='https://user-images.githubusercontent.com/67860821/177183434-b674054b-36ff-4018-a89b-dbef82529932.png'>
+ </p>
