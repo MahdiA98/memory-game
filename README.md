@@ -3,7 +3,7 @@ Built in Java using NetBeans 8.2.
 
 Developed as part of my summative assignment, for the 'Object Orientated Programming' module.
 ## Description
-This project is a simple application, that replicates a word matching, memory game and is based entirely within the IDE console. 
+A simple application that replicates a word matching, memory game and is based entirely within the IDE console. 
 The user is able to select 3 different difficulty levels, each of which utilise a distinct text file. These are:
 * Small
 * Medium
@@ -24,4 +24,4 @@ Input validations are also present throughout to ensure robustness and code sust
 <p align="center">
   <img src='https://user-images.githubusercontent.com/67860821/177183381-077a505f-ccee-4bd1-9375-cbab226a9e30.png'>
   <img src='https://user-images.githubusercontent.com/67860821/177183434-b674054b-36ff-4018-a89b-dbef82529932.png'>
- </p>
+</p>
